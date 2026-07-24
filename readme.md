@@ -1,5 +1,3 @@
-
-
 ![cover](https://raw.githubusercontent.com/itsdididev/itsdididev/main/Header_MVP.png)
 
 <h1 align="center">
@@ -11,12 +9,12 @@
 </p>
 
 <h3 align="center">
-  <span style="color:#FBCFE8;">Tech enthusiast</span>
-  <span style="color:#BAE6FD;">| Frontend en crecimiento | Comunidad y aprendizaje continuo</span>
+  <span style="color:#FBCFE8;">Microsoft Lover</span>
+  <span style="color:#BAE6FD;">| Developer | Comunidad y aprendizaje continuo</span>
 </h3>
 
 
-Construyo mi perfil profesional combinando tecnologia, creatividad y colaboracion. Me interesa crear soluciones utiles, aprender rapido y crecer con proyectos reales.
+Creo en la tecnología como una herramienta para conectar personas, impulsar la innovación y generar impacto. Disfruto liderar iniciativas, construir comunidades y desarrollar proyectos que aporten valor real.
 
 > 🌟 Perfil principal: [linkedin.com/in/dianacalizaya](https://www.linkedin.com/in/dianacalizaya/)
 
@@ -27,7 +25,7 @@ Construyo mi perfil profesional combinando tecnologia, creatividad y colaboracio
 [![Instagram](https://img.shields.io/badge/Instagram-calizaya.diana-F9A8D4?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/calizaya.diana)
 </br>
 [![Email](https://img.shields.io/badge/Email-dididev@gmail.com-FBCFE8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:dididev@gmail.com)
-[![Portafolio](https://img.shields.io/badge/Web-tu_sitio-93C5FD?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010)](https://example.com)
+[![Portafolio](https://img.shields.io/badge/Web-dididev-93C5FD?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010)](https://)
 
 # Programas en los que participo
 
@@ -47,4 +45,3 @@ Construyo mi perfil profesional combinando tecnologia, creatividad y colaboracio
 [![LinkedIn DM](https://img.shields.io/badge/LinkedIn-Mensaje_directo-AECBFA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/dianacalizaya/)
 </br>
 [![Email](https://img.shields.io/badge/Email-Escribeme-F9A8D4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:dididev@gmail.com)
-
